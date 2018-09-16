@@ -1,0 +1,1 @@
+hadoop fs -cat /datos/taxis/fhv_tripdata_2015-04.csv | head
